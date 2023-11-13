@@ -1,0 +1,6 @@
+These are codes for practical05 to compile:
+gcc -o arc arctan.c -lm
+gcc -o fibonacci fibonacci.c 
+gcc -o use_scanf use_scanf.c
+gfortran -o read use_scanf.f90
+gfortran -o fibf fibonacci.f90
