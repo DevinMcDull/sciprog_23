@@ -1,0 +1,3 @@
+This is the code for practical04 to comple:
+
+gcc -o trap_deg trap_deg.c -lm
