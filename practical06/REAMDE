@@ -1,0 +1,4 @@
+These are code for practical06 to compile:
+
+gcc -o matmult matmult.c
+gcc -o matmultf matmult.f90

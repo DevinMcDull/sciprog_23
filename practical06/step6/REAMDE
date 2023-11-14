@@ -1,0 +1,5 @@
+These are codes for step6 to compile:
+
+gcc -c main.c
+gcc -c matmult.c
+gcc -o matmultc main.o matmult.o
