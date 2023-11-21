@@ -1,0 +1,4 @@
+These are codes for practical07 to compile:
+
+gcc -o finde finde.c -lm
+gcc -o dyallocation dynamicallocation.c
